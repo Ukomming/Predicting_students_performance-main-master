@@ -1,0 +1,239 @@
+Age,Gender,wassce grade,level,current CGPA,number of siblings ,access to a laptop or internet,study group,time spent on independent studies,grades
+0,23 - 27 years,Male,16 - 20,L 400,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+1,23 - 27 years,Male,6 - 9,L 400,1.9 - 1.5,Less than 3,Yes,Yes,More than 2 hours,Pass
+2,23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Exactly 3,Yes,Yes,Less than 2 hours,Second class upper
+3,23 - 27 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+4,23 - 27 years,Female,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,Yes,More than 2 hours,Second class lower
+5,23 - 27 years,Male,16 - 20,L 400,1.9 - 1.5,More than 3,No,Yes,More than 2 hours,Pass
+6,18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+7,18 - 22 years,Female,10 - 15,L 400,3.5 - 3.0,More than 3,No,Yes,More than 2 hours,Second class upper
+8,18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,Exactly 3,Yes,Yes,Less than 2 hours,Second class upper
+9,18 - 22 years,Female,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,Yes,More than 2 hours,Second class lower
+10,18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours,Second class upper
+11,23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours,Second class upper
+12,23 - 27 years,Male,21 - 25,L 400,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours,Second class upper
+13,23 - 27 years,Male,16 - 20,L 400,4.0 - 3.6,More than 3,Yes,Yes,Less than 2 hours,First class
+14,23 - 27 years,Male,16 - 20,L 400,2.4 - 2.0,More than 3,Yes,No,Exactly 2 hours,Third class
+15,23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours,Second class lower
+16,18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours,Second class lower
+17,23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+18,23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+19,18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+20,23 - 27 years,Female,16 - 20,L 400,4.0 - 3.6,More than 3,Yes,Yes,Less than 2 hours,First class
+21,23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,Maybe,Yes,Exactly 2 hours,Second class lower
+22,23 - 27 years,Male,16 - 20,L 400,2.9 - 2.5,More than 3,Yes,Yes,Less than 2 hours,Second class lower
+23,18 - 22 years,Male,16 - 20,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+24,23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,Exactly 3,Yes,No,More than 2 hours,Second class upper
+25,23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours,Second class lower
+26,More than 32 years,Male,16 - 20,L 400,2.4 - 2.0,More than 3,Yes,No,More than 2 hours,Third class
+27,23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,Exactly 3,Yes,No,More than 2 hours,Second class upper
+28,23 - 27 years,Male,6 - 9,L 400,2.9 - 2.5,More than 3,Yes,No,Less than 2 hours,Second class lower
+29,23 - 27 years,Male,16 - 20,L 400,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+30,18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+31,23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours,Second class lower
+32,23 - 27 years,Female,16 - 20,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours,Third class
+33,28 - 32 years,Female,16 - 20,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+34,18 - 22 years,Female,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours,Second class lower
+35,18 - 22 years,Male,16 - 20,L 400,3.5 - 3.0,Less than 3,Yes,No,More than 2 hours,Second class upper
+36,23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+37,18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours,Second class upper
+38,18 - 22 years,Female,6 - 9,L 300,4.0 - 3.6,Exactly 3,Yes,No,Less than 2 hours,First class
+39,18 - 22 years,Male,6 - 9,L 300,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours,First class
+40,23 - 27 years,Female,10 - 15,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours,First class
+41,23 - 27 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+42,23 - 27 years,Female,16 - 20,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+43,23 - 27 years,Female,16 - 20,L 300,3.5 - 3.0,More than 3,No,Yes,Exactly 2 hours,Second class upper
+44,23 - 27 years,Male,21 - 25,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+45,28 - 32 years,Female,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+46,18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,Exactly 3,Yes,No,Less than 2 hours,Second class upper
+47,23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,Exactly 2 hours,Second class lower
+48,23 - 27 years,Female,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours,Second class lower
+49,18 - 22 years,Male,6 - 9,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+50,18 - 22 years,Female,16 - 20,L 400,2.4 - 2.0,Less than 3,Yes,No,Exactly 2 hours,Third class
+51,23 - 27 years,Female,16 - 20,L 400,2.9 - 2.5,More than 3,No,Yes,More than 2 hours,Second class lower
+52,18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+53,18 - 22 years,Male,16 - 20,L 300,2.4 - 2.0,More than 3,No,No,Exactly 2 hours,Third class
+54,18 - 22 years,Male,21 - 25,L 400,2.4 - 2.0,More than 3,Yes,Yes,Less than 2 hours,Third class
+55,14 - 17 years,Male,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours,Second class upper
+56,23 - 27 years,Male,10 - 15,L 400,1.9 - 1.5,Less than 3,Yes,Yes,More than 2 hours,Pass
+57,23 - 27 years,Male,10 - 15,L 400,2.4 - 2.0,More than 3,Yes,No,Exactly 2 hours,Third class
+58,18 - 22 years,Male,6 - 9,L 300,4.0 - 3.6,Exactly 3,Yes,Yes,More than 2 hours,First class
+59,14 - 17 years,Female,10 - 15,L 300,2.9 - 2.5,Less than 3,No,Yes,More than 2 hours,Second class lower
+60,23 - 27 years,Female,26 - 30,L 400,4.0 - 3.6,More than 3,Yes,Yes,More than 2 hours,First class
+61,18 - 22 years,Male,6 - 9,L 400,4.0 - 3.6,Exactly 3,Yes,No,More than 2 hours,First class
+62,18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,Less than 2 hours,Second class upper
+63,23 - 27 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+64,23 - 27 years,Male,6 - 9,L 400,2.9 - 2.5,More than 3,Yes,No,Less than 2 hours,Second class lower
+65,18 - 22 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+66,18 - 22 years,Male,16 - 20,L 400,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours,Second class lower
+67,18 - 22 years,Female,6 - 9,L 400,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+68,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,Less than 2 hours,Second class lower
+69,23 - 27 years,Female,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+70,18 - 22 years,Female,21 - 25,L 300,2.4 - 2.0,More than 3,No,No,Less than 2 hours,Third class
+71,18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+72,18 - 22 years,Female,21 - 25,L 400,3.5 - 3.0,Less than 3,No,No,More than 2 hours,Second class upper
+73,14 - 17 years,Male,16 - 20,L 300,4.0 - 3.6,Less than 3,Yes,Yes,Less than 2 hours,First class
+74,18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,Exactly 3,No,Yes,Exactly 2 hours,Second class upper
+75,28 - 32 years,Male,21 - 25,L 400,2.9 - 2.5,Less than 3,Yes,Yes,Less than 2 hours,Second class lower
+76,23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,No,Yes,Less than 2 hours,Second class upper
+77,18 - 22 years,Male,21 - 25,L 300,2.4 - 2.0,More than 3,Yes,Yes,Exactly 2 hours,Third class
+78,18 - 22 years,Female,10 - 15,L 300,2.9 - 2.5,Exactly 3,No,Yes,Exactly 2 hours,Second class lower
+79,23 - 27 years,Male,16 - 20,L 400,4.0 - 3.6,More than 3,Yes,Yes,More than 2 hours,First class
+80,23 - 27 years,Male,26 - 30,L 400,2.4 - 2.0,Exactly 3,No,No,Exactly 2 hours,Third class
+81,18 - 22 years,Female,16 - 20,L 300,2.4 - 2.0,Exactly 3,Yes,Yes,More than 2 hours,Third class
+82,23 - 27 years,Male,10 - 15,L 300,2.9 - 2.5,Exactly 3,No,Yes,Exactly 2 hours,Second class lower
+83,18 - 22 years,Female,6 - 9,L 400,4.0 - 3.6,Exactly 3,Yes,Yes,More than 2 hours,First class
+84,23 - 27 years,Female,16 - 20,L 400,2.4 - 2.0,Exactly 3,Yes,Yes,Exactly 2 hours,Third class
+85,23 - 27 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours,Second class lower
+86,18 - 22 years,Female,6 - 9,L 400,3.5 - 3.0,Less than 3,Yes,No,More than 2 hours,Second class upper
+87,23 - 27 years,Male,21 - 25,L 400,2.9 - 2.5,Exactly 3,No,Yes,Exactly 2 hours,Second class lower
+88,18 - 22 years,Male,6 - 9,L 400,3.5 - 3.0,More than 3,Yes,Yes,Exactly 2 hours,Second class upper
+89,23 - 27 years,Male,10 - 15,L 400,2.4 - 2.0,Exactly 3,Yes,No,Less than 2 hours,Third class
+90,23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+91,23 - 27 years,Male,10 - 15,L 400,1.9 - 1.5,Less than 3,Yes,No,More than 2 hours,Pass
+92,18 - 22 years,Female,16 - 20,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Exactly 2 hours,Second class upper
+93,23 - 27 years,Female,6 - 9,L 400,2.9 - 2.5,Exactly 3,Maybe,Yes,More than 2 hours,Second class lower
+94,18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Exactly 2 hours,Second class upper
+95,18 - 22 years,Female,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,Exactly 2 hours,Second class lower
+96,18 - 22 years,Female,16 - 20,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours,Second class upper
+97,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,No,No,Exactly 2 hours,Second class lower
+98,23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+99,18 - 22 years,Female,21 - 25,L 300,2.4 - 2.0,More than 3,No,No,Less than 2 hours,Third class
+100,23 - 27 years,Male,16 - 20,L 400,2.9 - 2.5,Exactly 3,No,Yes,Exactly 2 hours,Second class lower
+101,23 - 27 years,Female,16 - 20,L 400,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours,Second class lower
+102,18 - 22 years,Female,6 - 9,L 300,4.0 - 3.6,More than 3,No,Yes,More than 2 hours,First class
+103,18 - 22 years,Female,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,No,More than 2 hours,Second class upper
+104,18 - 22 years,Female,6 - 9,L 300,3.5 - 3.0,More than 3,Yes,Yes,Less than 2 hours,Second class upper
+105,23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours,Second class upper
+106,18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,No,More than 2 hours,Second class upper
+107,18 - 22 years,Female,10 - 15,L 300,2.9 - 2.5,Exactly 3,Yes,No,Exactly 2 hours,Second class lower
+108,18 - 22 years,Male,16 - 20,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Exactly 2 hours,Third class
+109,18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,More than 3,No,Yes,Exactly 2 hours,Third class
+110,18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,Yes,No,Less than 2 hours,Second class lower
+111,18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+112,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Maybe,No,More than 2 hours,Second class lower
+113,23 - 27 years,Female,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours,Second class upper
+114,23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,No,More than 2 hours,Second class upper
+115,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+116,23 - 27 years,Male,10 - 15,L 300,1.9 - 1.5,More than 3,No,Yes,More than 2 hours,Pass
+117,18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours,Second class lower
+118,18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours,Second class lower
+119,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours,Second class lower
+120,18 - 22 years,Female,6 - 9,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+121,18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours,Third class
+122,18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours,Second class lower
+123,23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,No,Exactly 2 hours,Second class upper
+124,23 - 27 years,Female,6 - 9,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours,First class
+125,18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,Yes,Less than 2 hours,Second class upper
+126,18 - 22 years,Male,6 - 9,L 300,3.5 - 3.0,Less than 3,Yes,No,More than 2 hours,Second class upper
+127,18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,No,More than 2 hours,Second class upper
+128,18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,Yes,More than 2 hours,Second class lower
+129,23 - 27 years,Female,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,Exactly 2 hours,Second class lower
+130,18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,No,No,More than 2 hours,Second class lower
+131,18 - 22 years,Male,16 - 20,L 300,2.4 - 2.0,More than 3,Yes,No,Less than 2 hours,Third class
+132,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+133,18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,More than 3,Yes,No,More than 2 hours,Second class lower
+134,23 - 27 years,Female,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,Exactly 2 hours,Second class lower
+135,18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,Exactly 2 hours,Second class upper
+136,23 - 27 years,Male,16 - 20,L 300,2.4 - 2.0,Less than 3,Yes,Yes,More than 2 hours,Third class
+137,18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+138,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours,Second class lower
+139,18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,Less than 2 hours,Second class upper
+140,23 - 27 years,Female,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+141,23 - 27 years,Male,21 - 25,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Exactly 2 hours,Third class
+142,23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+143,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,No,Yes,Exactly 2 hours,Second class lower
+144,28 - 32 years,Male,10 - 15,L 300,4.0 - 3.6,More than 3,Yes,Yes,Exactly 2 hours,First class
+145,23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,More than 3,Maybe,Yes,More than 2 hours,Third class
+146,18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,No,More than 2 hours,Second class upper
+147,18 - 22 years,Male,10 - 15,L 300,1.9 - 1.5,Less than 3,Yes,No,Less than 2 hours,Pass
+148,23 - 27 years,Male,10 - 15,L 300,4.0 - 3.6,More than 3,Yes,No,More than 2 hours,First class
+149,23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,Exactly 3,No,No,More than 2 hours,Second class upper
+150,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,No,No,More than 2 hours,Second class lower
+151,18 - 22 years,Male,16 - 20,L 300,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours,First class
+152,28 - 32 years,Male,6 - 9,L 300,4.0 - 3.6,More than 3,Yes,No,More than 2 hours,First class
+153,23 - 27 years,Male,21 - 25,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+154,23 - 27 years,Male,10 - 15,L 300,Below 1.5,More than 3,No,Yes,Exactly 2 hours,Fail
+155,18 - 22 years,Female,6 - 9,L 300,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours,Second class lower
+156,23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours,Second class upper
+157,18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,Exactly 3,Yes,No,Less than 2 hours,Third class
+158,18 - 22 years,Male,21 - 25,L 300,2.4 - 2.0,Exactly 3,Yes,Yes,Exactly 2 hours,Third class
+159,23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,Less than 2 hours,Second class upper
+160,18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+161,23 - 27 years,Male,16 - 20,L 300,1.9 - 1.5,Exactly 3,Yes,No,Less than 2 hours,Pass
+162,18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours,Second class lower
+163,23 - 27 years,Male,6 - 9,L 300,4.0 - 3.6,More than 3,Yes,Yes,More than 2 hours,First class
+164,23 - 27 years,Male,10 - 15,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+165,23 - 27 years,Female,6 - 9,L 300,4.0 - 3.6,Exactly 3,No,No,Exactly 2 hours,First class
+166,18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,Exactly 3,Yes,Yes,Exactly 2 hours,Third class
+167,23 - 27 years,Male,21 - 25,L 300,2.9 - 2.5,Less than 3,Yes,Yes,Less than 2 hours,Second class lower
+168,23 - 27 years,Female,10 - 15,L 400,3.5 - 3.0,More than 3,Maybe,Yes,More than 2 hours,Second class upper
+169,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+170,18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,No,Exactly 2 hours,Second class upper
+171,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours,Second class lower
+172,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours,Second class lower
+173,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+174,18 - 22 years,Male,6 - 9,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+175,18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,More than 3,Yes,Yes,Exactly 2 hours,Second class lower
+176,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours,Second class lower
+177,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+178,18 - 22 years,Male,16 - 20,L 300,2.4 - 2.0,Less than 3,Yes,Yes,More than 2 hours,Third class
+179,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+180,23 - 27 years,Male,10 - 15,L 300,2.9 - 2.5,More than 3,Yes,No,More than 2 hours,Second class lower
+181,18 - 22 years,Male,6 - 9,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+182,23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,No,Exactly 2 hours,Second class upper
+183,23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours,Second class upper
+184,23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Exactly 2 hours,Third class
+185,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours,Second class lower
+186,23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,Exactly 3,Yes,Yes,Less than 2 hours,Third class
+187,18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,No,Exactly 2 hours,Second class lower
+188,18 - 22 years,Female,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,No,More than 2 hours,Second class lower
+189,23 - 27 years,Male,10 - 15,L 300,4.0 - 3.6,More than 3,Yes,No,More than 2 hours,First class
+190,23 - 27 years,Male,21 - 25,L 300,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours,Second class lower
+191,23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,No,No,More than 2 hours,Second class upper
+192,23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours,Third class
+193,23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours,Second class upper
+194,23 - 27 years,Male,16 - 20,L 300,2.4 - 2.0,More than 3,Yes,Yes,More than 2 hours,Third class
+195,23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,No,Less than 2 hours,Second class lower
+196,23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours,Third class
+197,23 - 27 years,Female,10 - 15,L 400,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours,Second class upper
+198,18 - 22 years,Male,21 - 25,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours,Third class
+199,18 - 22 years,Male,16 - 20,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours,Second class lower
+200,23 - 27 years,Female,16 - 20,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Exactly 2 hours,Second class upper
+201,23 - 27 years,Female,21 - 25,L 300,2.9 - 2.5,Exactly 3,No,Yes,More than 2 hours,Second class lower
+202,23 - 27 years,Female,16 - 20,L 300,2.4 - 2.0,More than 3,No,No,Less than 2 hours,Third class
+203,18 - 22 years,Male,10 - 15,L 400,4.0 - 3.6,Less than 3,Yes,Yes,Less than 2 hours,First class
+204,14 - 17 years,Female,6 - 9,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+205,18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours,Second class upper
+206,18 - 22 years,Male,10 - 15,L 400,4.0 - 3.6,More than 3,Maybe,Yes,More than 2 hours,First class
+207,23 - 27 years,Male,6 - 9,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours,First class
+208,14 - 17 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+209,23 - 27 years,Female,10 - 15,L 300,2.9 - 2.5,Less than 3,No,No,Exactly 2 hours,Second class lower
+210,23 - 27 years,Female,16 - 20,L 300,2.4 - 2.0,Less than 3,No,No,Exactly 2 hours,Third class
+211,28 - 32 years,Female,16 - 20,L 400,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours,Second class lower
+212,18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,No,No,Exactly 2 hours,Third class
+213,23 - 27 years,Female,6 - 9,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours,First class
+214,23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Exactly 2 hours,Second class upper
+215,18 - 22 years,Male,10 - 15,L 400,2.4 - 2.0,Less than 3,No,No,Less than 2 hours,Third class
+216,28 - 32 years,Male,21 - 25,L 400,3.5 - 3.0,Exactly 3,No,No,More than 2 hours,Second class upper
+217,23 - 27 years,Female,26 - 30,L 300,3.5 - 3.0,Less than 3,Yes,No,Less than 2 hours,Second class upper
+218,14 - 17 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours,Second class lower
+219,28 - 32 years,Female,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,Yes,Less than 2 hours,Second class lower
+220,14 - 17 years,Male,6 - 9,L 400,4.0 - 3.6,More than 3,Yes,Yes,More than 2 hours,First class
+221,18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,No,No,Exactly 2 hours,Second class lower
+222,23 - 27 years,Male,10 - 15,L 400,4.0 - 3.6,Less than 3,Yes,Yes,Exactly 2 hours,First class
+223,23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,No,Yes,Less than 2 hours,Second class lower
+224,14 - 17 years,Male,6 - 9,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Less than 2 hours,Second class upper
+225,23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Less than 2 hours,Second class upper
+226,23 - 27 years,Male,6 - 9,L 400,4.0 - 3.6,More than 3,Yes,Yes,Less than 2 hours,First class
+227,23 - 27 years,Female,16 - 20,L 400,4.0 - 3.6,Less than 3,Yes,Yes,Less than 2 hours,First class
+228,23 - 27 years,Female,16 - 20,L 400,2.4 - 2.0,Exactly 3,Yes,No,Less than 2 hours,Third class
+229,14 - 17 years,Female,6 - 9,L 300,4.0 - 3.6,More than 3,No,No,More than 2 hours,First class
+230,18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Maybe,No,Exactly 2 hours,Second class lower
+231,14 - 17 years,Male,6 - 9,L 400,4.0 - 3.6,Less than 3,Maybe,Yes,More than 2 hours,First class
+232,More than 32 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Maybe,Yes,Exactly 2 hours,Second class upper
+233,18 - 22 years,Male,6 - 9,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours,First class
+234,18 - 22 years,Male,6 - 9,L 300,Below 1.5,More than 3,Maybe,No,More than 2 hours,Fail
+235,More than 32 years,Female,Above 30,L 300,Below 1.5,More than 3,No,Yes,Less than 2 hours,Fail
+236,18 - 22 years,Female,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours,Second class upper
+237,23 - 27 years,Male,6 - 9,L 400,3.5 - 3.0,More than 3,Yes,Yes,Exactly 2 hours,Second class upper

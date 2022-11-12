@@ -1,0 +1,239 @@
+﻿Age,Gender,wassce grade,level,current CGPA,number of siblings ,access to a laptop or internet,study group,time spent on independent studies
+23 - 27 years,Male,16 - 20,L 400,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,6 - 9,L 400,1.9 - 1.5,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Exactly 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 400,1.9 - 1.5,More than 3,No,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,10 - 15,L 400,3.5 - 3.0,More than 3,No,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,Exactly 3,Yes,Yes,Less than 2 hours
+18 - 22 years,Female,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,21 - 25,L 400,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,16 - 20,L 400,4.0 - 3.6,More than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Male,16 - 20,L 400,2.4 - 2.0,More than 3,Yes,No,Exactly 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,16 - 20,L 400,4.0 - 3.6,More than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,Maybe,Yes,Exactly 2 hours
+23 - 27 years,Male,16 - 20,L 400,2.9 - 2.5,More than 3,Yes,Yes,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,Exactly 3,Yes,No,More than 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours
+More than 32 years,Male,16 - 20,L 400,2.4 - 2.0,More than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,Exactly 3,Yes,No,More than 2 hours
+23 - 27 years,Male,6 - 9,L 400,2.9 - 2.5,More than 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,16 - 20,L 400,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Female,16 - 20,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours
+28 - 32 years,Female,16 - 20,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours
+18 - 22 years,Male,16 - 20,L 400,3.5 - 3.0,Less than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,6 - 9,L 300,4.0 - 3.6,Exactly 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,6 - 9,L 300,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,10 - 15,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,16 - 20,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,16 - 20,L 300,3.5 - 3.0,More than 3,No,Yes,Exactly 2 hours
+23 - 27 years,Male,21 - 25,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+28 - 32 years,Female,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,Exactly 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Female,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours
+18 - 22 years,Male,6 - 9,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,16 - 20,L 400,2.4 - 2.0,Less than 3,Yes,No,Exactly 2 hours
+23 - 27 years,Female,16 - 20,L 400,2.9 - 2.5,More than 3,No,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.4 - 2.0,More than 3,No,No,Exactly 2 hours
+18 - 22 years,Male,21 - 25,L 400,2.4 - 2.0,More than 3,Yes,Yes,Less than 2 hours
+14 - 17 years,Male,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 400,1.9 - 1.5,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.4 - 2.0,More than 3,Yes,No,Exactly 2 hours
+18 - 22 years,Male,6 - 9,L 300,4.0 - 3.6,Exactly 3,Yes,Yes,More than 2 hours
+14 - 17 years,Female,10 - 15,L 300,2.9 - 2.5,Less than 3,No,Yes,More than 2 hours
+23 - 27 years,Female,26 - 30,L 400,4.0 - 3.6,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,6 - 9,L 400,4.0 - 3.6,Exactly 3,Yes,No,More than 2 hours
+18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,6 - 9,L 400,2.9 - 2.5,More than 3,Yes,No,Less than 2 hours
+18 - 22 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,16 - 20,L 400,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Female,6 - 9,L 400,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Female,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,21 - 25,L 300,2.4 - 2.0,More than 3,No,No,Less than 2 hours
+18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,21 - 25,L 400,3.5 - 3.0,Less than 3,No,No,More than 2 hours
+14 - 17 years,Male,16 - 20,L 300,4.0 - 3.6,Less than 3,Yes,Yes,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,Exactly 3,No,Yes,Exactly 2 hours
+28 - 32 years,Male,21 - 25,L 400,2.9 - 2.5,Less than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,No,Yes,Less than 2 hours
+18 - 22 years,Male,21 - 25,L 300,2.4 - 2.0,More than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Female,10 - 15,L 300,2.9 - 2.5,Exactly 3,No,Yes,Exactly 2 hours
+23 - 27 years,Male,16 - 20,L 400,4.0 - 3.6,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,26 - 30,L 400,2.4 - 2.0,Exactly 3,No,No,Exactly 2 hours
+18 - 22 years,Female,16 - 20,L 300,2.4 - 2.0,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.9 - 2.5,Exactly 3,No,Yes,Exactly 2 hours
+18 - 22 years,Female,6 - 9,L 400,4.0 - 3.6,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,16 - 20,L 400,2.4 - 2.0,Exactly 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Female,6 - 9,L 400,3.5 - 3.0,Less than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,21 - 25,L 400,2.9 - 2.5,Exactly 3,No,Yes,Exactly 2 hours
+18 - 22 years,Male,6 - 9,L 400,3.5 - 3.0,More than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.4 - 2.0,Exactly 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 400,1.9 - 1.5,Less than 3,Yes,No,More than 2 hours
+18 - 22 years,Female,16 - 20,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Female,6 - 9,L 400,2.9 - 2.5,Exactly 3,Maybe,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Female,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Female,16 - 20,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,No,No,Exactly 2 hours
+23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,21 - 25,L 300,2.4 - 2.0,More than 3,No,No,Less than 2 hours
+23 - 27 years,Male,16 - 20,L 400,2.9 - 2.5,Exactly 3,No,Yes,Exactly 2 hours
+23 - 27 years,Female,16 - 20,L 400,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Female,6 - 9,L 300,4.0 - 3.6,More than 3,No,Yes,More than 2 hours
+18 - 22 years,Female,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,No,More than 2 hours
+18 - 22 years,Female,6 - 9,L 300,3.5 - 3.0,More than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,No,More than 2 hours
+18 - 22 years,Female,10 - 15,L 300,2.9 - 2.5,Exactly 3,Yes,No,Exactly 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,More than 3,No,Yes,Exactly 2 hours
+18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Maybe,No,More than 2 hours
+23 - 27 years,Female,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,No,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,1.9 - 1.5,More than 3,No,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours
+18 - 22 years,Female,6 - 9,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,More than 3,Yes,No,Exactly 2 hours
+23 - 27 years,Female,6 - 9,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,Yes,Less than 2 hours
+18 - 22 years,Male,6 - 9,L 300,3.5 - 3.0,Less than 3,Yes,No,More than 2 hours
+18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,No,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,No,No,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.4 - 2.0,More than 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,More than 3,Yes,No,More than 2 hours
+23 - 27 years,Female,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.4 - 2.0,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Female,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,21 - 25,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,No,Yes,Exactly 2 hours
+28 - 32 years,Male,10 - 15,L 300,4.0 - 3.6,More than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,More than 3,Maybe,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,No,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,1.9 - 1.5,Less than 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 300,4.0 - 3.6,More than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,Exactly 3,No,No,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,No,No,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours
+28 - 32 years,Male,6 - 9,L 300,4.0 - 3.6,More than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,21 - 25,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,Below 1.5,More than 3,No,Yes,Exactly 2 hours
+18 - 22 years,Female,6 - 9,L 300,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,Exactly 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,21 - 25,L 300,2.4 - 2.0,Exactly 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,1.9 - 1.5,Exactly 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,6 - 9,L 300,4.0 - 3.6,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,6 - 9,L 300,4.0 - 3.6,Exactly 3,No,No,Exactly 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,Exactly 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,21 - 25,L 300,2.9 - 2.5,Less than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Female,10 - 15,L 400,3.5 - 3.0,More than 3,Maybe,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,3.5 - 3.0,Less than 3,Yes,No,Exactly 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,No,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,6 - 9,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,More than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.4 - 2.0,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.9 - 2.5,More than 3,Yes,No,More than 2 hours
+18 - 22 years,Male,6 - 9,L 300,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,No,Exactly 2 hours
+23 - 27 years,Male,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,Exactly 3,Yes,Yes,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 300,2.9 - 2.5,Less than 3,Yes,No,Exactly 2 hours
+18 - 22 years,Female,16 - 20,L 300,2.9 - 2.5,More than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,4.0 - 3.6,More than 3,Yes,No,More than 2 hours
+23 - 27 years,Male,21 - 25,L 300,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,No,No,More than 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.4 - 2.0,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 300,2.9 - 2.5,Exactly 3,Yes,No,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Female,10 - 15,L 400,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,21 - 25,L 300,2.4 - 2.0,Less than 3,Yes,Yes,Less than 2 hours
+18 - 22 years,Male,16 - 20,L 400,2.9 - 2.5,Exactly 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,16 - 20,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Female,21 - 25,L 300,2.9 - 2.5,Exactly 3,No,Yes,More than 2 hours
+23 - 27 years,Female,16 - 20,L 300,2.4 - 2.0,More than 3,No,No,Less than 2 hours
+18 - 22 years,Male,10 - 15,L 400,4.0 - 3.6,Less than 3,Yes,Yes,Less than 2 hours
+14 - 17 years,Female,6 - 9,L 400,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Female,10 - 15,L 300,3.5 - 3.0,Exactly 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 400,4.0 - 3.6,More than 3,Maybe,Yes,More than 2 hours
+23 - 27 years,Male,6 - 9,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours
+14 - 17 years,Male,10 - 15,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Female,10 - 15,L 300,2.9 - 2.5,Less than 3,No,No,Exactly 2 hours
+23 - 27 years,Female,16 - 20,L 300,2.4 - 2.0,Less than 3,No,No,Exactly 2 hours
+28 - 32 years,Female,16 - 20,L 400,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.4 - 2.0,Less than 3,No,No,Exactly 2 hours
+23 - 27 years,Female,6 - 9,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,16 - 20,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Exactly 2 hours
+18 - 22 years,Male,10 - 15,L 400,2.4 - 2.0,Less than 3,No,No,Less than 2 hours
+28 - 32 years,Male,21 - 25,L 400,3.5 - 3.0,Exactly 3,No,No,More than 2 hours
+23 - 27 years,Female,26 - 30,L 300,3.5 - 3.0,Less than 3,Yes,No,Less than 2 hours
+14 - 17 years,Female,10 - 15,L 400,2.9 - 2.5,Exactly 3,Yes,No,More than 2 hours
+28 - 32 years,Female,10 - 15,L 300,2.9 - 2.5,Less than 3,Yes,Yes,Less than 2 hours
+14 - 17 years,Male,6 - 9,L 400,4.0 - 3.6,More than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,10 - 15,L 400,2.9 - 2.5,Less than 3,No,No,Exactly 2 hours
+23 - 27 years,Male,10 - 15,L 400,4.0 - 3.6,Less than 3,Yes,Yes,Exactly 2 hours
+23 - 27 years,Male,10 - 15,L 400,2.9 - 2.5,More than 3,No,Yes,Less than 2 hours
+14 - 17 years,Male,6 - 9,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Male,6 - 9,L 400,4.0 - 3.6,More than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Female,16 - 20,L 400,4.0 - 3.6,Less than 3,Yes,Yes,Less than 2 hours
+23 - 27 years,Female,16 - 20,L 400,2.4 - 2.0,Exactly 3,Yes,No,Less than 2 hours
+14 - 17 years,Female,6 - 9,L 300,4.0 - 3.6,More than 3,No,No,More than 2 hours
+18 - 22 years,Male,10 - 15,L 300,2.9 - 2.5,Less than 3,Maybe,No,Exactly 2 hours
+14 - 17 years,Male,6 - 9,L 400,4.0 - 3.6,Less than 3,Maybe,Yes,More than 2 hours
+More than 32 years,Male,10 - 15,L 400,3.5 - 3.0,Less than 3,Maybe,Yes,Exactly 2 hours
+18 - 22 years,Male,6 - 9,L 400,4.0 - 3.6,Less than 3,Yes,Yes,More than 2 hours
+18 - 22 years,Male,6 - 9,L 300,Below 1.5,More than 3,Maybe,No,More than 2 hours
+More than 32 years,Female,Above 30,L 300,Below 1.5,More than 3,No,Yes,Less than 2 hours
+18 - 22 years,Female,16 - 20,L 300,3.5 - 3.0,More than 3,Yes,Yes,More than 2 hours
+23 - 27 years,Male,6 - 9,L 400,3.5 - 3.0,More than 3,Yes,Yes,Exactly 2 hours
