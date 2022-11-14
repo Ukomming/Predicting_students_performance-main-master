@@ -9,24 +9,24 @@
 
 ### File structure
 
-\*+├── cleaning_data.ipynb
-\*+├── input
-\*+│   └── Predicting_students_performance_using_machine_learning_algorithm.csv
-\*+├── KNN.ipynb
-\*+├── linear_regression.ipynb
-\*+├── Logistic_regression.ipynb
-\*+├── Naive_bayes.ipynb
-\*+├── Neural_network.ipynb
-\*+├── output
-\*+│   ├── cleaned_data.csv
-\*+│   ├── KNNmodel.pickle
-\*+│   ├── linearmodel.pickle
-\*+│   ├── Logregmodel.pickle
-\*+│   ├── naive_bayes.pickle
-\*+│   ├── Nural_network.pickle
-\*+│   ├── processed_data.csv
-\*+│   └── SVMmodel.pickle
-\*+├── Predicting_student_performance_EDA.ipynb
-\*+├── README.md
-\*+└── Svm.ipynb
+- +├── cleaning_data.ipynb
+- +├── input
+- +│   └── Predicting_students_performance_using_machine_learning_algorithm.csv
+- +├── KNN.ipynb
+- \*+├── linear_regression.ipynb
+- \*+├── Logistic_regression.ipynb
+- \*+├── Naive_bayes.ipynb
+- \*+├── Neural_network.ipynb
+- \*+├── output
+- \*+│   ├── cleaned_data.csv
+- \*+│   ├── KNNmodel.pickle
+- \*+│   ├── linearmodel.pickle
+- \*+│   ├── Logregmodel.pickle
+- \*+│   ├── naive_bayes.pickle
+- \*+│   ├── Nural_network.pickle
+- \*+│   ├── processed_data.csv
+- \*+│   └── SVMmodel.pickle
+- \*+├── Predicting_student_performance_EDA.ipynb
+- \*+├── README.md
+- \*+└── Svm.ipynb
 
