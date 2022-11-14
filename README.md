@@ -8,6 +8,7 @@
 
 
 ### File structure
+'''
 +├── cleaning_data.ipynb
 +├── input
 +│   └── Predicting_students_performance_using_machine_learning_algorithm.csv
@@ -28,4 +29,4 @@
 +├── Predicting_student_performance_EDA.ipynb
 +├── README.md
 +└── Svm.ipynb
-
+'''
